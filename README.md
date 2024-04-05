@@ -1,6 +1,7 @@
 # 모두가 모이는 뱅킹, 모모뱅크
+
 <p align="center">
-  <img src="/README/Untitled.png" alt="Untitled">
+  <img src="/README/main.png" alt="main logo">
 </p>
 
 ## 개요
@@ -48,7 +49,7 @@
 ## 시스템 구성도
 
 <p align="center">
-  <img src="/README/Untitled1.png" alt="Untitled">
+  <img src="/README/structure.png" alt="structure">
 </p>
 
 ```jsx
@@ -126,20 +127,17 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 - **User**: MariaDB
 
 <p align="center">
-  <img src="/README/Untitled2.png" alt="Untitled">
+  <img src="/README/erd1.png" alt="erd1">
 </p>
-
 
 - **Bank**: Oracle DB
 
 <p align="center">
-  <img src="/README/Untitled3.png" alt="Untitled">
+  <img src="/README/erd2.png" alt="erd2">
 </p>
-
 
 - **Community**: MariaDB
 
 <p align="center">
-  <img src="/README/Untitled4.png" alt="Untitled">
+  <img src="/README/erd3.png" alt="erd3">
 </p>
-
