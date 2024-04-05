@@ -1,6 +1,6 @@
 # 모두가 모이는 뱅킹, 모모뱅크
 <p align="center">
-  <img src="https://lab.ssafy.com/s10-fintech-finance-sub2/S10P22A505/-/raw/develop/README/Untitled.png?ref_type=heads" alt="Untitled">
+  <img src="/README/Untitled.png" alt="Untitled">
 </p>
 
 ## 개요
@@ -10,8 +10,6 @@
 프로젝트 기간(6주): 2024.02.26 ~ 2024.04.05
 
 팀원(6명): 손준성(Back-Infra), 곽민우(Back-Infra), 명소이(Back-Api), 이효리(Back-api), 김성수(front), 엄세현(front)
-
-호스팅 url: [https://j10a505.p.ssafy.io/](https://j10a505.p.ssafy.io/)
 
 ## 소개
 
@@ -49,7 +47,9 @@
 
 ## 시스템 구성도
 
-![Untitled](https://lab.ssafy.com/s10-fintech-finance-sub2/S10P22A505/-/raw/develop/README/Untitled%201.png?ref_type=heads)
+<p align="center">
+  <img src="/README/Untitled1.png" alt="Untitled">
+</p>
 
 ```jsx
 [ 클라이언트 ]
@@ -97,7 +97,10 @@
 ### Frontend
 
 - Nuxt.js 3.10.3
+- Sass
 - Tailwind CSS 6.11.4
+- Axios
+- Pinia
 
 ### Backend
 
@@ -122,12 +125,21 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 
 - **User**: MariaDB
 
-  ![Untitled](https://lab.ssafy.com/s10-fintech-finance-sub2/S10P22A505/-/raw/develop/README/Untitled%202.png?ref_type=heads)
+<p align="center">
+  <img src="/README/Untitled2.png" alt="Untitled">
+</p>
+
 
 - **Bank**: Oracle DB
 
-![Untitled](https://lab.ssafy.com/s10-fintech-finance-sub2/S10P22A505/-/raw/develop/README/Untitled%203.png?ref_type=heads)
+<p align="center">
+  <img src="/README/Untitled3.png" alt="Untitled">
+</p>
+
 
 - **Community**: MariaDB
 
-![Untitled](https://lab.ssafy.com/s10-fintech-finance-sub2/S10P22A505/-/raw/develop/README/Untitled%204.png?ref_type=heads)
+<p align="center">
+  <img src="/README/Untitled4.png" alt="Untitled">
+</p>
+
