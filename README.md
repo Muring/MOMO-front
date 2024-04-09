@@ -4,7 +4,6 @@
 
 <br>
 
-
 ## 개요
 
 프로젝트명: 모모뱅크
@@ -143,12 +142,12 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 
 <a name="intro"></a>
 
-## 📢　Site Layout
+## 📢 　 Site Layout
 
 - 메인 페이지
 
-  ![main](./image/main.png)
-
+  ![main](./README/layout//main.gif)
+  ![main](./README/layout/main.png)
 
 <br>
 
@@ -165,7 +164,6 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 #### 곽민우
 
 #### 손준성
-
 
 ### FRONTEND
 
@@ -230,6 +228,4 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 
 - [x] 메인 페이지
 
-
 <br>
-
