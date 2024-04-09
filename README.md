@@ -158,39 +158,39 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 
 - 뱅킹 메인
 
-<img src="./README/layout/bank_main.PNG" width="200" height="400">
+  <img src="./README/layout/bank_main.PNG" width="200" height="400">
 
 - 계좌 목록
 
-<img src="./README/layout/bank_list.PNG" width="200" height="400">
+  <img src="./README/layout/bank_list.PNG" width="200" height="400">
 
 - 모임 목록
 
-<img src="./README/layout/group_list.PNG" width="200" height="400">
+  <img src="./README/layout/group_list.PNG" width="200" height="400">
 
 - 계좌 개설
 
-<img src="./README/layout/account_create_1.png" width="200" height="400">
-<img src="./README/layout/agree.PNG" width="200" height="400">
-<img src="./README/layout/password.PNG" width="200" height="400">
-<img src="./README/layout/password_fail.PNG" width="200" height="400">
-<img src="./README/layout/confirm.PNG" width="200" height="400">
-<img src="./README/layout/preference.PNG" width="200" height="400">
-<img src="./README/layout/card_recommend.PNG" width="200" height="400">
-<img src="./README/layout/card-recommend.gif" width="200" height="400">
+  <img src="./README/layout/account_create_1.png" width="200" height="400">
+  <img src="./README/layout/agree.PNG" width="200" height="400">
+  <img src="./README/layout/password.PNG" width="200" height="400">
+  <img src="./README/layout/password_fail.PNG" width="200" height="400">
+  <img src="./README/layout/confirm.PNG" width="200" height="400">
+  <img src="./README/layout/preference.PNG" width="200" height="400">
+  <img src="./README/layout/card_recommend.PNG" width="200" height="400">
+  <img src="./README/layout/card-recommend.gif" width="200" height="400">
 
 - 거래내역
 
-<img src="./README/layout/remit_history.PNG" width="200" height="400">
+  <img src="./README/layout/remit_history.PNG" width="200" height="400">
 
 - 송금
 
-<img src="./README/layout/remit1.PNG" width="200" height="400">
-<img src="./README/layout/remit2.PNG" width="200" height="400">
-<img src="./README/layout/remit3.PNG" width="200" height="400">
-<img src="./README/layout/remit4.PNG" width="200" height="400">
-<img src="./README/layout/remit5.PNG" width="200" height="400">
-<img src="./README/layout/remit_fail.PNG" width="200" height="400">
+  <img src="./README/layout/remit1.PNG" width="200" height="400">
+  <img src="./README/layout/remit2.PNG" width="200" height="400">
+  <img src="./README/layout/remit3.PNG" width="200" height="400">
+  <img src="./README/layout/remit4.PNG" width="200" height="400">
+  <img src="./README/layout/remit5.PNG" width="200" height="400">
+  <img src="./README/layout/remit_fail.PNG" width="200" height="400">
 
 - 모임
 
