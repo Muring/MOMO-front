@@ -146,77 +146,77 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 
 - 초기화면
 
-  <img src="./README/layout/main.gif" width="200" height="500">
-   <img src="./README/layout/main.PNG" width="200" height="500">
+  <img src="./README/layout/main.gif" width="250" height="400">
+   <img src="./README/layout/main.PNG" width="250" height="400">
 
 - 회원가입
 
-  <img src="./README/layout/signup1.PNG" width="200" height="500">
-  <img src="./README/layout/signup2.PNG" width="200" height="500">
-  <img src="./README/layout/signup3.PNG" width="200" height="500">
-  <img src="./README/layout/signup4.PNG" width="200" height="500">
+  <img src="./README/layout/signup1.PNG" width="250" height="400">
+  <img src="./README/layout/signup2.PNG" width="250" height="400">
+  <img src="./README/layout/signup3.PNG" width="250" height="400">
+  <img src="./README/layout/signup4.PNG" width="250" height="400">
 
 - 뱅킹 메인
 
-  <img src="./README/layout/bank_main.PNG" width="200" height="500">
+  <img src="./README/layout/bank_main.PNG" width="250" height="400">
 
 - 계좌 목록
 
-  <img src="./README/layout/bank_list.PNG" width="200" height="500">
+  <img src="./README/layout/bank_list.PNG" width="250" height="400">
 
 - 모임 목록
 
-  <img src="./README/layout/group_list.PNG" width="200" height="500">
+  <img src="./README/layout/group_list.PNG" width="250" height="400">
 
 - 계좌 개설
 
-  <img src="./README/layout/account_create_1.PNG" width="200" height="500">
-  <img src="./README/layout/agree.PNG" width="200" height="500">
-  <img src="./README/layout/password.PNG" width="200" height="500">
-  <img src="./README/layout/password_fail.PNG" width="200" height="500">
-  <img src="./README/layout/confirm.PNG" width="200" height="500">
-  <img src="./README/layout/preference.PNG" width="200" height="500">
-  <img src="./README/layout/card_recommend.PNG" width="200" height="500">
-  <img src="./README/layout/card-recommend.gif" width="200" height="500">
+  <img src="./README/layout/account_create_1.PNG" width="250" height="400">
+  <img src="./README/layout/agree.PNG" width="250" height="400">
+  <img src="./README/layout/password.PNG" width="250" height="400">
+  <img src="./README/layout/password_fail.PNG" width="250" height="400">
+  <img src="./README/layout/confirm.PNG" width="250" height="400">
+  <img src="./README/layout/preference.PNG" width="250" height="400">
+  <img src="./README/layout/card_recommend.PNG" width="250" height="400">
+  <img src="./README/layout/card-recommend.gif" width="250" height="400">
 
 - 거래내역
 
-  <img src="./README/layout/remit_history.PNG" width="200" height="500">
+  <img src="./README/layout/remit_history.PNG" width="250" height="400">
 
 - 송금
 
-  <img src="./README/layout/remit1.PNG" width="200" height="500">
-  <img src="./README/layout/remit2.PNG" width="200" height="500">
-  <img src="./README/layout/remit3.PNG" width="200" height="500">
-  <img src="./README/layout/remit4.PNG" width="200" height="500">
-  <img src="./README/layout/remit5.PNG" width="200" height="500">
-  <img src="./README/layout/remit_fail.PNG" width="200" height="500">
+  <img src="./README/layout/remit1.PNG" width="250" height="400">
+  <img src="./README/layout/remit2.PNG" width="250" height="400">
+  <img src="./README/layout/remit3.PNG" width="250" height="400">
+  <img src="./README/layout/remit4.PNG" width="250" height="400">
+  <img src="./README/layout/remit5.PNG" width="250" height="400">
+  <img src="./README/layout/remit_fail.PNG" width="250" height="400">
 
 - 모임　메인
 
-  <img src="./README/layout/group_main.PNG" width="200" height="500">
+  <img src="./README/layout/group_main.PNG" width="250" height="400">
 
 - 모임 상세
 
-  <img src="./README/layout/group_detail.PNG" width="200" height="500">
-  <img src="./README/layout/group_detail1.PNG" width="200" height="500">
-  <img src="./README/layout/group_detail2.PNG" width="200" height="500">
+  <img src="./README/layout/group_detail.PNG" width="250" height="400">
+  <img src="./README/layout/group_detail1.PNG" width="250" height="400">
+  <img src="./README/layout/group_detail2.PNG" width="250" height="400">
 
 - 예산
 
-  <img src="./README/layout/group_asset.PNG" width="200" height="500">
-  <img src="./README/layout/group_asset_add.PNG" width="200" height="500">
-  <img src="./README/layout/group_asset_add1.PNG" width="200" height="500">
+  <img src="./README/layout/group_asset.PNG" width="250" height="400">
+  <img src="./README/layout/group_asset_add.PNG" width="250" height="400">
+  <img src="./README/layout/group_asset_add1.PNG" width="250" height="400">
 
 - 모임 인원(관리자)
 
-  <img src="./README/layout/group_member.PNG" width="200" height="500">
+  <img src="./README/layout/group_member.PNG" width="250" height="400">
 
 - 공지사항
 
-  <img src="./README/layout/group_notice.PNG" width="200" height="500">
-  <img src="./README/layout/group_notice_add.PNG" width="200" height="500">
-  <img src="./README/layout/group_notice_add1.PNG" width="200" height="500">
+  <img src="./README/layout/group_notice.PNG" width="250" height="400">
+  <img src="./README/layout/group_notice_add.PNG" width="250" height="400">
+  <img src="./README/layout/group_notice_add1.PNG" width="250" height="400">
 
 <br>
 
