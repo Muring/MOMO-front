@@ -170,7 +170,7 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 
 - 계좌 개설
 
-  <img src="./README/layout/account_create_1.png" width="200" height="400">
+  <img src="./README/layout/account_create_1.PNG" width="200" height="400">
   <img src="./README/layout/agree.PNG" width="200" height="400">
   <img src="./README/layout/password.PNG" width="200" height="400">
   <img src="./README/layout/password_fail.PNG" width="200" height="400">
@@ -192,7 +192,31 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
   <img src="./README/layout/remit5.PNG" width="200" height="400">
   <img src="./README/layout/remit_fail.PNG" width="200" height="400">
 
-- 모임
+- 모임　메인
+
+  <img src="./README/layout/group_main.PNG" width="200" height="400">
+
+- 모임 상세
+
+  <img src="./README/layout/group_detail.PNG" width="200" height="400">
+  <img src="./README/layout/group_detail1.PNG" width="200" height="400">
+  <img src="./README/layout/group_detail2.PNG" width="200" height="400">
+
+- 예산
+
+  <img src="./README/layout/group_asset.PNG" width="200" height="400">
+  <img src="./README/layout/group_asset_add.PNG" width="200" height="400">
+  <img src="./README/layout/group_asset_add1.PNG" width="200" height="400">
+
+- 모임 인원(관리자)
+
+  <img src="./README/layout/group_member.PNG" width="200" height="400">
+
+- 공지사항
+
+  <img src="./README/layout/group_notice.PNG" width="200" height="400">
+  <img src="./README/layout/group_notice_add.PNG" width="200" height="400">
+  <img src="./README/layout/group_notice_add1.PNG" width="200" height="400">
 
 <br>
 
@@ -252,6 +276,7 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 - [x] 휴대폰 번호 중복 검사
 - [x] 로그인
 - [x] 로그아웃
+- [x] 비밀번호 찾기
 
 ### 뱅킹
 
@@ -272,5 +297,15 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 💡 피드, 리포트를 통한 소통 개선 및 손쉬운 납부 확인이 가능한 모임 통장 기능 구현
 
 - [x] 메인 페이지
+- [x] 모임 상세
+- [x] 예산 관리
+- [x] 입금 현황
+- [x] 전체 인원 확인
+- [x] 공지사항 작성/수정/삭제
+- [x] 피드 작성/수정/삭제
+- [x] 관리자 권한
+- [x] 초대코드 모임 초대
+- [x] 리포트
+- [] 피드 댓글
 
 <br>
