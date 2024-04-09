@@ -147,7 +147,7 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 - 메인 페이지
 
   <img src="./README/layout/main.gif" width="200" height="400">
-   <img src="./README/layout/main.png" width="200" height="400">
+   <img src="./README/layout/main.PNG" width="200" height="400">
 
 <br>
 
