@@ -208,6 +208,12 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
   <img src="./README/layout/group_asset_add.PNG" width="200" height="400">
   <img src="./README/layout/group_asset_add1.PNG" width="200" height="400">
 
+  - 피드
+
+  <img src="./README/layout/group_myfeed.PNG" width="200" height="400">
+  <img src="./README/layout/group_feed_add.PNG" width="200" height="400">
+  <img src="./README/layout/group_feed_add1.PNG" width="200" height="400">
+
 - 모임 인원(관리자)
 
   <img src="./README/layout/group_member.PNG" width="200" height="400">
@@ -306,6 +312,6 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 - [x] 관리자 권한
 - [x] 초대코드 모임 초대
 - [x] 리포트
-- [] 피드 댓글
+- [ ] 피드 댓글
 
 <br>
